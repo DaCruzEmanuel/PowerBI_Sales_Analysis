@@ -5,15 +5,15 @@ ____________
 
 This project leverages Power BI to conduct an in-depth analysis of sales data from Maven Toys, a fictional toy store chain in Mexico, with data covering product sales and store performance across multiple locations. The analysis highlights sales trends, profitability, and store performance over 2022 and 2023.
 
-- **Tool used:**
-    - *Power BI*
+**Tool used:**
+    - Power BI
 
-- **Dataset:**
-    - *The project is based on datasets imported from Maven Analytics [Mexico Toy Sales]( https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&search=toy).*
+**Dataset:**
+    - The project is based on datasets imported from Maven Analytics [Mexico Toy Sales]( https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&search=toy).
 
-    - *Data from 4  .csv files, with the fact table covering transactions from years 2022 and 2023*
+    - Data from 4  .csv files, with the fact table covering transactions from years 2022 and 2023
 
-Note: Although having imported the Inventory table, for the purpose of this projects, I decided to essentially focus the analysis on Product and Store sales performance.
+***Note:** Although having imported the Inventory table, for the purpose of this projects, I decided to essentially focus the analysis on Product and Store sales performance.*
 
 ____________
 ## Problem statement
