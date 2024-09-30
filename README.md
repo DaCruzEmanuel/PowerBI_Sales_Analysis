@@ -10,7 +10,9 @@ This project leverages Power BI to conduct an in-depth analysis of sales data fr
 
 - **Dataset:**
     - *The project is based on datasets imported from Maven Analytics [Mexico Toy Sales]( https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&search=toy).*
+
     - *Data from 4  .csv files, with the fact table covering transactions from years 2022 and 2023*
+
 Note: Although having imported the Inventory table, for the purpose of this projects, I decided to essentially focus the analysis on Product and Store sales performance.
 
 ____________
