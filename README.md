@@ -98,9 +98,7 @@ The analysis is based on the following 3 reports:
 ____________
 ## Report Visualization and Analysis
 
-This analysis focuses on the sales analysis of Maven Toys stores between 2022 and 2023. For a more comprehensive review, and project interaction, please refer to the .pbix file available in this project repository.
-
-[View Maven Toys Sales Dashboards](https://app.powerbi.com/view?r=eyJrIjoiNmFlNjZiNTgtMmZlOC00ODkwLWExMjYtZmZiZTlkOTk5ZDg0IiwidCI6IjIwNWMxNjI0LTg0YWEtNGU3Yy05NjhmLTlkYzM2NDAzNmFjZSJ9)
+This analysis focuses on the sales analysis of Maven Toys stores between 2022 and 2023. 
 
 ## Key Insights
 **______________________________**
@@ -184,5 +182,12 @@ This dashboard shows that Maven Toys operates 50 stores across 29 cities accros 
 5.	**Seasonal Promotions:** Implement targeted promotions in March, as it showed early peak sales in 2023, potentially boosting mid-year revenue.
 
 7.	**Inventory Optimization:** Adjust inventory levels to align with demand trends, particularly for high-selling products like "Colorbuds."
+
+## Interactive Dashboard
+
+For a more comprehensive review and to interact with the full dashboard, please click the link below::
+
+[View Maven Toys Sales Dashboards](https://app.powerbi.com/view?r=eyJrIjoiNmFlNjZiNTgtMmZlOC00ODkwLWExMjYtZmZiZTlkOTk5ZDg0IiwidCI6IjIwNWMxNjI0LTg0YWEtNGU3Yy05NjhmLTlkYzM2NDAzNmFjZSJ9)
+
 
 
