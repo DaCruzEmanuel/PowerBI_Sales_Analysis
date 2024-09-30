@@ -1,6 +1,6 @@
 # Maven Toys Sales Analysis - Power BI Project
 
-
+____________
 ## Project Overview
 
 This project leverages Power BI to conduct an in-depth analysis of sales data from Maven Toys, a fictional toy store chain in Mexico, with data covering product sales and store performance across multiple locations. The analysis highlights sales trends, profitability, and store performance over 2022 and 2023.
@@ -13,6 +13,7 @@ This project leverages Power BI to conduct an in-depth analysis of sales data fr
     - *Data from 4  .csv files, with the fact table covering transactions from years 2022 and 2023*
 Note: Although having imported the Inventory table, for the purpose of this projects, I decided to essentially focus the analysis on Product and Store sales performance.
 
+____________
 ## Problem statement
 
 ### Problem/Question to be Solved: 
@@ -23,7 +24,7 @@ Note: Although having imported the Inventory table, for the purpose of this proj
    
 5.	Store Performance: Which stores are the most and least profitable, and how do their performances differ across various store locations?
 
-
+____________
 ## Main Steps in Report Creation
 
 ### 1. Data Import
@@ -88,13 +89,15 @@ The analysis is based on the following 3 reports:
 
 •	Stores Analysis
 
+____________
 ## Report Visualization and Analysis
 
 This analysis focuses on the sales analysis of Maven Toys stores between 2022 and 2023. For a more comprehensive review, and project interaction, please refer to the .pbix file available in this project repository.
 
 [View the .pbix file]()
 
-### Key Insights
+## Key Insights
+**______________________________**
 #### 1. Sales Overview
 
 <img src="https://i.imgur.com/LJmFJqG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -115,7 +118,7 @@ The overall sales overview shows:
 While sales and profitability have grown significantly in 2023, the sales trend remains relatively consistent between the two years. The first peak of sales came earlier in 2023 (March) compared to 2022 (May). The strongest sales month in 2023 is expected to be December, driven by holiday shopping.
 
 
-____________
+**______________________________**
 
 #### 2. Products and Category Analysis
 
@@ -142,7 +145,7 @@ As shown on the visual above, Maven Toys offers 35 products across five categori
 •	**Revenue Driver:** Despite higher sales volume for "Colorbuds," "Lego Bricks" consistently generated the highest revenue.
 
 
-____________
+**______________________________**
 #### 3. Stores Analysis
 
 <img src="https://i.imgur.com/jhZc16D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -165,4 +168,15 @@ This dashboard shows that Maven Toys operates 50 stores across 29 cities accros 
 •	Stores in **Downtown** areas contributed the most to overall sales.
 
 •	**Ciudad de Mexico 2** emerged as the most profitable store for both years.
+
+## Recommendations
+
+1.	**Focus on Downtown Stores:** Given the strong sales performance in Downtown locations, investing in these areas may yield higher profitability.
+   
+3.	**Product Focus:** Consider increasing inventory for Lego Bricks as it is the top revenue driver, despite not being the highest seller.
+   
+5.	**Seasonal Promotions:** Implement targeted promotions in March, as it showed early peak sales in 2023, potentially boosting mid-year revenue.
+
+7.	**Inventory Optimization:** Adjust inventory levels to align with demand trends, particularly for high-selling products like "Colorbuds."
+
 
