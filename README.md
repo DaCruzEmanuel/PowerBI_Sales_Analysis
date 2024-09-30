@@ -58,30 +58,33 @@ Exploring the dataset beforehand allows you to identify unnecessary columns or r
 ### 3. Data transformation and cleaning in Power Query Editor
 
 **On Power Query from Power BI:**
-- Changed Data types of columns IDs to numeric on all tables.
+•	Changed Data types of columns IDs to numeric on all tables.
+•	Loaded data into Power BI Desktop
 
-### 4. Loaded data into Power BI Desktop
-
-### 5. Creating a Calendar Table using DAX
+### 4. Creating a Calendar Table using DAX
 •	Marked the calendar table as Date table
+
 
 [View the all DAX measures]()
 
-### 6. Data modelling
+### 5. Data modelling
 •	Created relationships between the Fact Table, Dimension Tables, and Calendar Table
 
 
 
 
-### 7. DAX Calculations
+### 6. DAX Calculations
 •	Created a measures table called “Calculation” to stores all measures.
 [View the all DAX measures]()
 
-### 8. Report Visualizations and analysis
+### 7. Report Visualizations and analysis
 
 The analysis is based on the following 3 reports:
+
 •	Sales Overview
+
 •	Products Analysis
+
 •	Stores Analysis
 
 ## Report Visualization and Analysis
@@ -101,7 +104,7 @@ This analysis focuses on the sales analysis of Maven Toys stores between 2022 an
 
 While sales and profitability have grown significantly in 2023, the sales trend remains relatively consistent between the two years. The first peak of sales came earlier in 2023 (March) compared to 2022 (May). The strongest sales month in 2023 is expected to be December, driven by holiday shopping.
 
-##Products and Category Analysis
+## Products and Category Analysis
 <img src="https://i.imgur.com/jhZc16D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
@@ -115,7 +118,7 @@ Maven Toys offers 35 products across five categories:
 •	**Top Sellers:** "Colorbuds" (2022), "Barrel O'Slime" (2023)
 •	**Revenue Driver:** Despite higher sales volume for "Colorbuds," "Lego Bricks" consistently generated the highest revenue.
 
-##Stores Analysis
+## Stores Analysis
 <img src="https://i.imgur.com/jhZc16D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
