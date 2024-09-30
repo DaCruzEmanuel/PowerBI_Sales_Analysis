@@ -15,6 +15,8 @@ This project leverages Power BI to conduct an in-depth analysis of sales data fr
 
 Note: Although having imported the Inventory table, for the purpose of this projects, I decided to essentially focus the analysis on Product and Store sales performance.
 
+[View downloaded files](https://github.com/DaCruzEmanuel/PowerBI_Sales_Analysis/tree/main/Datasets)
+
 ____________
 ## Problem statement
 
