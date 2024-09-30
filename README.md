@@ -185,7 +185,7 @@ This dashboard shows that Maven Toys operates 50 stores across 29 cities accros 
 
 ## Interactive Dashboard
 
-For a more comprehensive review and to interact with the full dashboard, please click the link below::
+For a more comprehensive review and to interact with the full dashboard, please click the link below:
 
 [View Maven Toys Sales Dashboards](https://app.powerbi.com/view?r=eyJrIjoiNmFlNjZiNTgtMmZlOC00ODkwLWExMjYtZmZiZTlkOTk5ZDg0IiwidCI6IjIwNWMxNjI0LTg0YWEtNGU3Yy05NjhmLTlkYzM2NDAzNmFjZSJ9)
 
