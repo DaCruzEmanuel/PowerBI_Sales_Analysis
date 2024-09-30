@@ -18,23 +18,30 @@ Note: Although having imported the Inventory table, for the purpose of this proj
 ### Problem/Question to be Solved: 
 
 1.	Monthly Sales Trends (2022 vs. 2023): How do sales trends compare between 2022 and 2023, and what factors contributed to these changes?
-2.	Top-Contributing Categories: Which product categories drive the most sales and profitability?
-3.	Store Performance: Which stores are the most and least profitable, and how do their performances differ across various store locations?
+   
+3.	Top-Contributing Categories: Which product categories drive the most sales and profitability?
+   
+5.	Store Performance: Which stores are the most and least profitable, and how do their performances differ across various store locations?
 
 
 ## Main Steps in Report Creation
 
 ### 1. Data Import
 
-- Downloaded the following  `".csv"` files  from ([Maven Analytics]( https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&search=toy)
+Downloaded the following  `".csv"` files  from [Maven Analytics](https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&search=toy)
+
 •	Product.ch
+
 •	Sales.csv
+
 •	Stores.csv
+
 •	Inventory.csv
 
 ### 2. Data Exploration and Organisation
 
 ### 3. Data transformation and cleaning in Power Query Editor
+
 **On Power Query from Power BI:**
 - Changed Data types of columns IDs to numeric on all tables.
 
