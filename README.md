@@ -108,9 +108,10 @@ This analysis focuses on the sales analysis of Maven Toys stores between 2022 an
 #### 1. Sales Overview
 
 <img src="https://i.imgur.com/BURl2IH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 
 The overall sales overview shows:
+
+<br />
 
 **KPIs**
 
@@ -119,6 +120,8 @@ The overall sales overview shows:
 •	Total Revenue (2022-2023): $14.44M
 
 •	Total Profit Margin (2022-2023): $4M
+
+<br />
 
 **Sales Trends (2022 vs. 2023):**
 
@@ -130,8 +133,10 @@ While sales and profitability have grown significantly in 2023, the sales trend 
 #### 2. Products and Category Analysis
 
 <img src="https://i.imgur.com/lj7tnFs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 As shown on the visual above, Maven Toys offers 35 products across five categories.
+
+<br />
 
 **Product Categories**
 
@@ -145,6 +150,8 @@ As shown on the visual above, Maven Toys offers 35 products across five categori
 
 •	Toys
 
+<br />
+
 **Top Sellers & Revenue Drivers:**
 
 •	**Top Sellers:** "Colorbuds" (2022), "Barrel O'Slime" (2023)
@@ -156,9 +163,10 @@ As shown on the visual above, Maven Toys offers 35 products across five categori
 #### 3. Stores Analysis
 
 <img src="https://i.imgur.com/QDRX2Pc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 
 This dashboard shows that Maven Toys operates 50 stores across 29 cities accros four location types.
+
+<br />
 
 **Stores locations type**
 
@@ -169,6 +177,8 @@ This dashboard shows that Maven Toys operates 50 stores across 29 cities accros 
 •	Residential
 
 •	Airport
+
+<br />
 
 **Stores performance:**
 
