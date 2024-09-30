@@ -82,7 +82,6 @@ Exploring the dataset beforehand allows you to identify unnecessary columns or r
 •	Created relationships between the Fact Table, Dimension Tables, and Calendar Table as shown below:
 
 <img src="https://i.imgur.com/X974bYl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 
 ### 6. DAX Calculations
 •	Created a measures table called “Calculation” to stores all measures.
