@@ -45,7 +45,9 @@ Downloaded the following  `".csv"` files  from [Maven Analytics](https://mavenan
 
 •	Inventory.csv
 
-You may also download the files in this repository.
+<br />
+
+*The files are also available in this repository, and you can download them using the link below:*
 
 [View downloaded files](https://github.com/DaCruzEmanuel/PowerBI_Sales_Analysis/tree/main/Datasets)
 
