@@ -9,7 +9,7 @@ This project leverages Power BI to conduct an in-depth analysis of sales data fr
     - *Power BI*
 
 - **Dataset:**
-    - *The project is based on datasets imported from Maven Analytics[Mexico Toy Sales]( https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&search=toy).*
+    - *The project is based on datasets imported from Maven Analytics [Mexico Toy Sales]( https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&search=toy).*
     - *Data from 4  .csv files, with the fact table covering transactions from years 2022 and 2023*
 Note: Although having imported the Inventory table, for the purpose of this projects, I decided to essentially focus the analysis on Product and Store sales performance.
 
@@ -58,19 +58,20 @@ Exploring the dataset beforehand allows you to identify unnecessary columns or r
 ### 3. Data transformation and cleaning in Power Query Editor
 
 **On Power Query from Power BI:**
+
 •	Changed Data types of columns IDs to numeric on all tables.
 •	Loaded data into Power BI Desktop
 
 ### 4. Creating a Calendar Table using DAX
+
 •	Marked the calendar table as Date table
 
 
 [View the all DAX measures]()
 
 ### 5. Data modelling
+
 •	Created relationships between the Fact Table, Dimension Tables, and Calendar Table
-
-
 
 
 ### 6. DAX Calculations
@@ -90,45 +91,78 @@ The analysis is based on the following 3 reports:
 ## Report Visualization and Analysis
 
 This analysis focuses on the sales analysis of Maven Toys stores between 2022 and 2023. For a more comprehensive review, and project interaction, please refer to the .pbix file available in this project repository.
-[Access to .pbix file]()
+
+[View the .pbix file]()
 
 ### Key Insights
-## Sales Overview
+#### 1. Sales Overview
+
 <img src="https://i.imgur.com/LJmFJqG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-•	**Total Units Sold (2022-2023):** 829K units
-•	**Total Revenue (2022-2023):** $14.44M
-•	**Total Profit Margin (2022-2023):** $4M
+The overall sales overview shows:
+
+**KPIs**
+
+•	Total Units Sold (2022-2023): 829K units
+
+•	Total Revenue (2022-2023): $14.44M
+
+•	Total Profit Margin (2022-2023): $4M
+
 **Sales Trends (2022 vs. 2023):**
 
 While sales and profitability have grown significantly in 2023, the sales trend remains relatively consistent between the two years. The first peak of sales came earlier in 2023 (March) compared to 2022 (May). The strongest sales month in 2023 is expected to be December, driven by holiday shopping.
 
-## Products and Category Analysis
+
+____________
+
+#### 2. Products and Category Analysis
+
 <img src="https://i.imgur.com/jhZc16D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+As shown on the visual above, Maven Toys offers 35 products across five categories.
 
-Maven Toys offers 35 products across five categories:
+**Product Categories**
+
 •	Art & Crafts
+
 •	Electronics
+
 •	Games
+
 •	Sports & Outdoors
+
 •	Toys
+
 **Top Sellers & Revenue Drivers:**
+
 •	**Top Sellers:** "Colorbuds" (2022), "Barrel O'Slime" (2023)
+
 •	**Revenue Driver:** Despite higher sales volume for "Colorbuds," "Lego Bricks" consistently generated the highest revenue.
 
-## Stores Analysis
+
+____________
+#### 3. Stores Analysis
+
 <img src="https://i.imgur.com/jhZc16D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-Maven Toys operates 50 stores across 29 cities in the following locations:
-•	**Downtown**
-•	**Commercial**
-•	**Residential**
-•	**Airport**
+This dashboard shows that Maven Toys operates 50 stores across 29 cities accros four location types.
 
-**Store Performance:**
+**Stores locations type**
+
+•	Downtown
+
+•	Commercial
+
+•	Residential
+
+•	Airport
+
+**Stores performance:**
+
 •	Stores in **Downtown** areas contributed the most to overall sales.
+
 •	**Ciudad de Mexico 2** emerged as the most profitable store for both years.
 
