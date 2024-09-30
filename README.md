@@ -83,7 +83,7 @@ Exploring the dataset beforehand allows you to identify unnecessary columns or r
 ### 6. DAX Calculations
 •	Created a measures table called “Calculation” to stores all measures.
 
-[View all DAX measures]()
+[View all DAX measures](https://github.com/DaCruzEmanuel/PowerBI_Sales_Analysis/tree/main/DAX%20-%20Measures%20and%20Calendar%20table)
 
 ### 7. Report Visualizations and analysis
 
@@ -100,7 +100,7 @@ ____________
 
 This analysis focuses on the sales analysis of Maven Toys stores between 2022 and 2023. For a more comprehensive review, and project interaction, please refer to the .pbix file available in this project repository.
 
-[View the .pbix file]()
+[View Maven Toys Sales Dashboards](https://app.powerbi.com/view?r=eyJrIjoiNmFlNjZiNTgtMmZlOC00ODkwLWExMjYtZmZiZTlkOTk5ZDg0IiwidCI6IjIwNWMxNjI0LTg0YWEtNGU3Yy05NjhmLTlkYzM2NDAzNmFjZSJ9)
 
 ## Key Insights
 **______________________________**
