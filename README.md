@@ -65,21 +65,21 @@ Exploring the dataset beforehand allows you to identify unnecessary columns or r
 •	Changed Data types of columns IDs to numeric on all tables.
 •	Loaded data into Power BI Desktop
 
-### 4. Creating a Calendar Table using DAX
+### 4. Created a Calendar Table using DAX
 
 •	Marked the calendar table as Date table
 
-
-[View the all DAX measures]()
-
 ### 5. Data modelling
 
-•	Created relationships between the Fact Table, Dimension Tables, and Calendar Table
+•	Created relationships between the Fact Table, Dimension Tables, and Calendar Table as shown below:
 
+<img src="https://i.imgur.com/X974bYl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 ### 6. DAX Calculations
 •	Created a measures table called “Calculation” to stores all measures.
-[View the all DAX measures]()
+
+[View all DAX measures]()
 
 ### 7. Report Visualizations and analysis
 
@@ -102,7 +102,7 @@ This analysis focuses on the sales analysis of Maven Toys stores between 2022 an
 **______________________________**
 #### 1. Sales Overview
 
-<img src="https://i.imgur.com/LJmFJqG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BURl2IH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 The overall sales overview shows:
@@ -124,7 +124,7 @@ While sales and profitability have grown significantly in 2023, the sales trend 
 
 #### 2. Products and Category Analysis
 
-<img src="https://i.imgur.com/jhZc16D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lj7tnFs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 As shown on the visual above, Maven Toys offers 35 products across five categories.
 
@@ -150,7 +150,7 @@ As shown on the visual above, Maven Toys offers 35 products across five categori
 **______________________________**
 #### 3. Stores Analysis
 
-<img src="https://i.imgur.com/jhZc16D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QDRX2Pc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 This dashboard shows that Maven Toys operates 50 stores across 29 cities accros four location types.
