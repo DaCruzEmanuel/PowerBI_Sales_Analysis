@@ -15,6 +15,7 @@ This project leverages Power BI to conduct an in-depth analysis of sales data fr
 
 • Data from 4  .csv files, with the fact table covering transactions from years 2022 and 2023
 
+<br />
 
 ***Note:** Although having imported the Inventory table, for the purpose of this projects, I decided to essentially focus the analysis on Product and Store sales performance.*
 
