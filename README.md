@@ -17,7 +17,7 @@ This project leverages Power BI to conduct an in-depth analysis of sales data fr
 
 <br />
 
-***Note:** Although having imported the Inventory table, for the purpose of this projects, I decided to essentially focus the analysis on Product and Store sales performance.*
+***Note:** Although the Inventory table was imported, this project focuses primarily on Product and Store sales performance.*
 
 ____________
 ## Problem statement
