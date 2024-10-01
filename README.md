@@ -1,6 +1,6 @@
 # Maven Toys Sales Analysis - Power BI Project
 
-____________
+---
 ## Project Overview
 
 This project leverages Power BI to conduct an in-depth analysis of sales data from Maven Toys, a fictional toy store chain in Mexico, with data covering product sales and store performance across multiple locations. The analysis highlights sales trends, profitability, and store performance over 2022 and 2023.
@@ -19,7 +19,7 @@ This project leverages Power BI to conduct an in-depth analysis of sales data fr
 
 ***Note:** Although the Inventory table was imported, this project focuses primarily on Product and Store sales performance.*
 
-____________
+---
 ## Problem statement
 
 ### Problem/Question to be Solved: 
@@ -30,7 +30,7 @@ ____________
    
 5.	Store Performance: Which stores are the most and least profitable, and how do their performances differ across various store locations?
 
-____________
+---
 ## Main Steps in Report Creation
 
 ### 1. Data Import
@@ -100,7 +100,7 @@ The analysis is based on the following 3 reports:
 
 •	Stores Analysis
 
-____________
+---
 ## Report Visualization and Analysis
 
 This analysis focuses on the sales analysis of Maven Toys stores between 2022 and 2023. 
