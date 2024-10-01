@@ -72,8 +72,8 @@ Exploring the dataset beforehand allows you to identify unnecessary columns or r
 
 **On Power Query from Power BI:**
 
-•	Changed Data types of columns IDs to numeric on all tables.
-•	Loaded data into Power BI Desktop
+- Changed Data types of columns IDs to numeric on all tables.
+- Loaded data into Power BI Desktop
 
 ### 4. Created a Calendar Table using DAX
 
