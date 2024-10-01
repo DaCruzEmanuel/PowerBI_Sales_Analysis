@@ -77,16 +77,16 @@ Exploring the dataset beforehand allows you to identify unnecessary columns or r
 
 ### 4. Created a Calendar Table using DAX
 
-•	Marked the calendar table as Date table
+- Marked the calendar table as Date table
 
 ### 5. Data modelling
 
-•	Created relationships between the Fact Table, Dimension Tables, and Calendar Table as shown below:
+- Created relationships between the Fact Table, Dimension Tables, and Calendar Table as shown below:
 
 <img src="https://i.imgur.com/X974bYl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### 6. DAX Calculations
-•	Created a measures table called “Calculation” to stores all measures.
+- Created a measures table called “Calculation” to stores all measures.
 
 [View all DAX measures](https://github.com/DaCruzEmanuel/PowerBI_Sales_Analysis/tree/main/DAX%20-%20Measures%20and%20Calendar%20table)
 
@@ -94,11 +94,11 @@ Exploring the dataset beforehand allows you to identify unnecessary columns or r
 
 The analysis is based on the following 3 reports:
 
-•	Sales Overview
+- Sales Overview
 
-•	Products Analysis
+- Products Analysis
 
-•	Stores Analysis
+- Stores Analysis
 
 ---
 ## Report Visualization and Analysis
