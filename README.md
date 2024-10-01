@@ -55,15 +55,15 @@ Downloaded the following  `".csv"` files  from [Maven Analytics](https://mavenan
 
 Exploring a dataset before importing it into Power BI is crucial for some of the folllowing reasons:
 
-**•	Data Quality Assessment**
+- **Data Quality Assessment**
 
 Early cleaning and preparation ensure reliable and accurate data.
 
-**•	Understanding Data Structure**
+- **Understanding Data Structure**
 
 Familiarize with the relationships between tables, data types and field ensure correct modeling, relationship optimization and effective report structure design.
 
-**•	Optimization of Data Load**
+- **Optimization of Data Load**
 
 Exploring the dataset beforehand allows you to identify unnecessary columns or rows that can be excluded from the import process, reducing data load size. This optimizes Power BI performance, especially for large datasets, ensuring faster report generation and analysis.
 
