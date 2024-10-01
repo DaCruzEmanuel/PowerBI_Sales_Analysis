@@ -117,11 +117,11 @@ The overall sales overview shows:
 
 **KPIs**
 
-•	Total Units Sold (2022-2023): 829K units
+- Total Units Sold (2022-2023): 829K units
 
-•	Total Revenue (2022-2023): $14.44M
+- Total Revenue (2022-2023): $14.44M
 
-•	Total Profit Margin (2022-2023): $4M
+- Total Profit Margin (2022-2023): $4M
 
 <br />
 
@@ -142,24 +142,22 @@ As shown on the visual above, Maven Toys offers 35 products across five categori
 
 **Product Categories**
 
-•	Art & Crafts
+- Art & Crafts
 
-•	Electronics
+- Electronics
 
-•	Games
+- Games
 
-•	Sports & Outdoors
+- Sports & Outdoors
 
-•	Toys
+- Toys
 
 <br />
 
 **Top Sellers & Revenue Drivers:**
 
-•	**Top Sellers:** "Colorbuds" (2022), "Barrel O'Slime" (2023)
-
-•	**Revenue Driver:** Despite higher sales volume for "Colorbuds," "Lego Bricks" consistently generated the highest revenue.
-
+- **Top Sellers:** "Colorbuds" (2022), "Barrel O'Slime" (2023)
+- **Revenue Driver:** Despite higher sales volume for "Colorbuds," "Lego Bricks" consistently generated the highest revenue.
 
 **______________________________**
 #### 3. Stores Analysis
@@ -172,21 +170,21 @@ This dashboard shows that Maven Toys operates 50 stores across 29 cities accros 
 
 **Stores locations type**
 
-•	Downtown
+- Downtown
 
-•	Commercial
+- Commercial
 
-•	Residential
+- Residential
 
-•	Airport
+- Airport
 
 <br />
 
 **Stores performance:**
 
-•	Stores in **Downtown** areas contributed the most to overall sales.
+- Stores in **Downtown** areas contributed the most to overall sales.
 
-•	**Ciudad de Mexico 2** emerged as the most profitable store for both years.
+- **Ciudad de Mexico 2** emerged as the most profitable store for both years.
 
 ## Recommendations
 
