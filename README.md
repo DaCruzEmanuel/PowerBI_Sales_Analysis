@@ -7,13 +7,13 @@ This project leverages Power BI to conduct an in-depth analysis of sales data fr
 
 **Tool used:**
 
-• Power BI
+- Power BI
 
 **Dataset:**
     
-• The project is based on datasets imported from Maven Analytics [Mexico Toy Sales]( https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&search=toy)
+- The project is based on datasets imported from Maven Analytics [Mexico Toy Sales]( https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&search=toy)
 
-• Data from 4  .csv files, with the fact table covering transactions from years 2022 and 2023
+- Data from 4  .csv files, with the fact table covering transactions from years 2022 and 2023
 
 <br />
 
@@ -37,13 +37,13 @@ This project leverages Power BI to conduct an in-depth analysis of sales data fr
 
 Downloaded the following  `".csv"` files  from [Maven Analytics](https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&search=toy)
 
-•	Product.ch
+- Product.ch
 
-•	Sales.csv
+- Sales.csv
 
-•	Stores.csv
+- Stores.csv
 
-•	Inventory.csv
+- Inventory.csv
 
 <br />
 
