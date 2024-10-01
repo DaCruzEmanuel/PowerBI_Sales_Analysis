@@ -88,7 +88,7 @@ Exploring the dataset beforehand allows you to identify unnecessary columns or r
 ### 6. DAX Calculations
 - Created a measures table called “Calculation” to stores all measures.
 
-[View all DAX measures](https://github.com/DaCruzEmanuel/PowerBI_Sales_Analysis/tree/main/DAX%20-%20Measures%20and%20Calendar%20table)
+[View DAX measures and Calendar table](https://github.com/DaCruzEmanuel/PowerBI_Sales_Analysis/tree/main/DAX%20-%20Measures%20and%20Calendar%20table)
 
 ### 7. Report Visualizations and analysis
 
